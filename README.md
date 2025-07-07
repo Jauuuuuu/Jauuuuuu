@@ -24,6 +24,8 @@
 ### 🛠️ Tools
 
 <p align="left">
+  <img src="https://camo.githubusercontent.com/89d672df787dd86eb8440d16b65fbd502b3b45ff212b57e851a0e740f075294f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39642f42726176655f6c696f6e5f69636f6e2e7376672f3132303070782d42726176655f6c696f6e5f69636f6e2e7376672e706e67" alt="Brave" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/b06b9664941268cd764bc78366b8e5d8b3d806dcce9192da94ab92a4096f1022/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39632f496e74656c6c694a5f494445415f49636f6e2e7376672f3132303070782d496e74656c6c694a5f494445415f49636f6e2e7376672e706e67" alt="IntelliJ IDEA Ultimate" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
